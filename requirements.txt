@@ -19,3 +19,10 @@ snuggs>=1.4.1
 rioxarray==0.15.0
 xarray>=0.17
 matplotlib>=3.x.x
+tweepy
+snscrape
+seaborn
+papermill
+requests
+beautifulsoup4
+tqdm
