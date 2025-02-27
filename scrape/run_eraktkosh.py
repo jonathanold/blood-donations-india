@@ -1,10 +1,10 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3.9
 
 import papermill
 import os
 
 # Change to the directory where the notebook file is located
-os.chdir('/Users/jonathanold/Library/CloudStorage/GoogleDrive-jonathan_old@berkeley.edu/My Drive/_Berkeley Research/Blood Donations/Code/Python/')
+os.chdir('/Users/jonathanold/pCloud Drive/_Berkeley Research/Blood Donations/blood-donations-india/scrape/')
 
 
 # Execute the notebook
